@@ -1,0 +1,55 @@
+[16-Jan-2022 12:55:00 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 12:55:00 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 13:10:52 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 13:10:52 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 13:28:04 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 13:28:04 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 13:51:57 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 13:51:57 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:00:47 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:00:47 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:16:47 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:16:47 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:30:19 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:30:19 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:44:01 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[16-Jan-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[17-Jan-2022 14:35:59 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[17-Jan-2022 14:35:59 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[17-Jan-2022 16:38:30 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[17-Jan-2022 16:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3
+[29-Mar-2022 08:43:21 America/New_York] PHP Warning:  require_once(./func/csrf.php): Failed to open stream: No such file or directory in /home/trafwygw/public_html/account/register.php on line 3
+[29-Mar-2022 08:43:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './func/csrf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trafwygw/public_html/account/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/trafwygw/public_html/account/register.php on line 3

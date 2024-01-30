@@ -1,0 +1,29 @@
+
+Chat Template
+
+From the user
+-------------
+
+ <div class="chat-content-rightside">
+		<div class="d-flex ms-auto">
+			<div class="flex-grow-1 me-2">
+				<p class="mb-0 chat-time text-end">you , { Time }</p>
+				<p class="chat-right-msg">{ Message }</p>
+			</div>
+		</div>
+	</div>
+
+
+To the user
+-----------
+<div class="chat-content-leftside">
+	<div class="d-flex">
+		<img src="{ User Image }" width="48" height="48" class="rounded-circle" alt="" />
+			<div class="flex-grow-1 ms-2">
+		    <p class="mb-0 chat-time">{User name} , { Time }</p>
+			  <p class="chat-left-msg">{ Message }</p>
+		</div>
+	</div>
+</div>
+
+
